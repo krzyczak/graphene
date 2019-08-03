@@ -1,0 +1,13 @@
+name: graphene
+version: 0.1.0
+
+authors:
+  - krzyczak <krzyczak@users.noreply.github.com>
+
+targets:
+  graphene:
+    main: src/graphene.cr
+
+crystal: 0.30.0
+
+license: MIT
